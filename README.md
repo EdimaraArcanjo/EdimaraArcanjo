@@ -1,7 +1,7 @@
 ### Olá, eu sou a Edi! ✨
 
 - 💻 Aspirante a DEV
-- 💛 Aluna da turma 09 na Laboratória
+- 💛 Aluna da nona geração na Laboratória
 - 🗣️ Psicóloga
 - ✍🏻 Escritora
 
