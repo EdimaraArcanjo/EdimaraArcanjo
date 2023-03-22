@@ -6,14 +6,16 @@
 - 🗣️ Psicóloga <br>
 - ✍🏻 Escritora <br>
    </h4>
+   
+   ##
 
-<div align="left">  
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Edimara Arcanjo github stats" /> 
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Edimara Arcanjo github stats" /> 
- 
+<div align="center">
+  <a href="https://github.com/EdimaraArcanjo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  
 </div>
    
-<div align="left">
+<div align="center">
     <img height="290px" width= "300px" src= "https://user-images.githubusercontent.com/109115688/226770307-0d628a57-93de-4d51-bd72-81ee67f9efc3.png"/> 
 </div>
   
@@ -26,7 +28,6 @@
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
-  ##
  
  <div> 
    <h3> Redes sociais </h3>
