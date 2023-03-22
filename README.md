@@ -1,10 +1,11 @@
-### Olá, eu sou a Edi! ✨
+<h2> Olá, eu sou a Edi!✨ <h2>
 
-- 💻 Aspirante a DEV
-- 💛 Aluna da nona geração na Laboratória
-- 🗣️ Psicóloga
-- ✍🏻 Escritora
-
+   <h4>
+- 💻 Aspirante a DEV <br>
+- 💛 Aluna da nona geração na Laboratória <br>
+- 🗣️ Psicóloga <br>
+- ✍🏻 Escritora <br>
+   </h4>
 
 <div align="center">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Edimara Arcanjo github stats" /> 
