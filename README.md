@@ -7,13 +7,14 @@
 - ✍🏻 Escritora <br>
    </h4>
 
-<div align="center">  
+<div align="left">  
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Edimara Arcanjo github stats" /> 
-   <img height="290px" width= "300px" src= "https://user-images.githubusercontent.com/109115688/226770307-0d628a57-93de-4d51-bd72-81ee67f9efc3.png"/> 
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Edimara Arcanjo github stats" /> 
+ 
 </div>
    
-<div align="center">
-  
+<div align="left">
+    <img height="290px" width= "300px" src= "https://user-images.githubusercontent.com/109115688/226770307-0d628a57-93de-4d51-bd72-81ee67f9efc3.png"/> 
 </div>
   
 
