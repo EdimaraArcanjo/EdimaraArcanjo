@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/EdimaraArcanjo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&show=html&layout=compact=true&theme=cobalt">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&show=html&layout=compact=true&theme=cobalt">
   
 </div>
    
