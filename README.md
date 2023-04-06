@@ -1,39 +1,32 @@
-<h2> Olá, eu sou a Edi!✨ <h2>
+# 🔭 Olá, eu sou a Edi!
+👩‍💻 Desenvolvedora Web Jr - Front End<br>
+🫶 Formada pela 9 geração da Laboratória<br>
+🎨 Artista nas horas vagas<br>
+❤️‍🔥 Entusiasta pela arte de escrever:
+códigos, livros, músicas <br> e a vida que eu quero ter
 
-   <h4>
-- 💻 Aspirante a DEV <br>
-- 💛 Aluna da nona geração na Laboratória <br>
-- 🗣️ Psicóloga <br>
-- ✍🏻 Escritora <br>
-   </h4>
-   
-   ##
+## 💻 Skills:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
-<div align="center">
-  <a href="https://github.com/EdimaraArcanjo">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&show=html&layout=compact=true&theme=cobalt">
-  
-</div>
-   
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edimara-arcanjo-79a097243/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ah_edii/) 
+
+
+# 
+![](https://github-readme-stats.vercel.app/api?username=EdimaraArcanjo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EdimaraArcanjo&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdimaraArcanjo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=EdimaraArcanjo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <div align="center">
     <img height="290px" width= "300px" src= "https://user-images.githubusercontent.com/109115688/226770307-0d628a57-93de-4d51-bd72-81ee67f9efc3.png"/> 
-</div>
-  
-
-<div style="display: inline_block"><br>
-  <h3> Main skilss </h3>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
-  
- 
- <div> 
-   <h3> Redes sociais </h3>
-   <a href="https://www.linkedin.com/in/edimara-arcanjo-79a097243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.instagram.com/ah_edii/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
