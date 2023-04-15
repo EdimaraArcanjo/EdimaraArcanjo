@@ -1,15 +1,15 @@
-# 🔭 Olá, eu sou a Edi!
+## 🔭 Olá, eu sou a Edi!
 👩‍💻 Desenvolvedora Web Jr - Front End<br>
 🫶 Formada pela 9 geração da Laboratória<br>
 🎨 Artista nas horas vagas<br>
 ❤️‍🔥 Entusiasta pela arte de escrever:
 códigos, livros, músicas <br> e a vida que eu quero ter
 
-## 💻 Skills:
+### 💻 Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/edimara-arcanjo-79a097243/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ah_edii/) 
 
