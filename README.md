@@ -1,9 +1,9 @@
 ## 🔭 Olá, eu sou a Edi!
-👩‍💻 Desenvolvedora Web Jr - Front End<br>
-🫶 Formada pela 9 geração da Laboratória<br>
+👩‍💻 Estudante de Desenvolvimento Web Jr - Front End<br>
+🫶 Laboratória<br>
 🎨 Artista nas horas vagas<br>
-❤️‍🔥 Entusiasta pela arte de escrever:
-códigos, livros, músicas <br> e a vida que eu quero ter
+❤️‍🔥 Entusiasta pela arte de escrever: <br>
+poesias, histórias e a vida que eu quero ter!
 
 ### 💻 Skills:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
