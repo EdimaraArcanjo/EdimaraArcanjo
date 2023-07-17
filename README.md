@@ -2,7 +2,7 @@
  
  <div>
     👩‍💻 Desenvolvedora Web Jr - Front End <br>
-    🫶 Graduanda pela Laboratória <br>
+    🫶 Graduada pela Laboratória <br>
     😻 Apaixonada por tecnologia, livros e gatos!
     <img align="right" height="290px" width= "300px" src= "https://user-images.githubusercontent.com/109115688/226770307-0d628a57-93de-4d51-bd72-81ee67f9efc3.png"/> 
   </div>
